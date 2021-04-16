@@ -1,0 +1,52 @@
+{
+    "hospitales": [
+      {
+        "id": "1",
+        "comarca": "Barcelona",
+        "nombre": "Hospital Vall d'Hebrón",
+        "habitaciones": "213",
+        "imagen":"https://res.cloudinary.com/dfb6ivozp/image/upload/v1617890084/imgVHB_ldt8dy.png"
+        
+        
+      },
+      {
+        "id": "2",
+        "comarca": "Madrid",
+        "nombre": "Clinico San Carlos",
+        "habitaciones": "543",
+        "imagen":"https://res.cloudinary.com/dfb6ivozp/image/upload/v1617890319/imgCSC_gbuwkq.png"
+      },
+      {
+        "id": "3",
+        "comarca": "León",
+        "nombre": "Hospital de León",
+        "habitaciones": "325",
+        "imagen":"https://www.icscyl.com/wp-content/uploads/2018/08/caule348-reduc.png"
+      },
+      {
+        "id": "4",
+        "comarca": "Barcelona",
+        "nombre": "Hospital de Bellvitge",
+        "habitaciones": "451",
+        "imagen":"https://blocdebellvitge.files.wordpress.com/2007/11/logo-hosptial-bellvitge.jpg?w=500"
+      },
+      {
+        "id": "5",
+        "comarca": "Madrid",
+        "nombre": "Hospital Universitario la Paz",
+        "habitaciones": "451",
+        "imagen":"https://www.fchp.es/wp-content/uploads/2018/11/hospital-la-paz.jpg"
+      },
+      {
+        "id": "6",
+        "comarca": "Barcelona",
+        "nombre": "Moisés Broggi",
+        "habitaciones": "451",
+        "imagen":"https://unes.cat/www/wp-content/uploads/2015/10/logo-hospital-st-joan-despi-moises-broggi.png"
+      }
+
+      
+
+      
+    ]
+  }

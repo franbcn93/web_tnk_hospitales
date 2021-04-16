@@ -1,0 +1,29 @@
+.lista_hospitales {
+  color: black;
+}
+.margenP {
+  margin: 10px;
+}
+.imgCard {
+  width: 117px;
+  max-width: 147px;
+  max-height: 110px;
+}
+.alignDivCard {
+  text-align: center;
+  position: relative;
+}
+.divCard {
+  margin: 20px 300px;
+}
+.MarginTitle {
+  margin-top: 15px;
+}
+@media (max-width: 700px) {
+  .listDiv {
+    margin-top: -50px;
+  }
+}
+.cardBorder {
+  border-radius: 10px;
+}
